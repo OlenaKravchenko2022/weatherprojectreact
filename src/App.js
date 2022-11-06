@@ -1,5 +1,5 @@
 import React from "react";
-import Weather from "./weather";
+import Weather from "./weather.js";
 import "./App.css";
 
 export default function App() {
@@ -11,13 +11,7 @@ export default function App() {
         </h1>
         <footer>
           The project was coded by Olena Kravchenko and is open-sourced{" "}
-          <a
-            href="https://github.com/OlenaKravchenko2022"
-            target="_blank"
-            rel="noreferrer"
-          >
-            on GitHub
-          </a>
+          <a href="https://github.com/OlenaKravchenko2022">on GitHub</a>
         </footer>
       </div>
     </div>
