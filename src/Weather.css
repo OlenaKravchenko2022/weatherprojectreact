@@ -7,18 +7,19 @@
   color: rgb(135, 135, 135);
 }
 .Weather h1 {
-  font-size: 24px;
+  font-size: 64px;
   color: #202124;
-  font-weight: 100;
+  font-weight: bold;
   line-height: 29px;
-  margin: 20px 0 0 0;
+  margin: 40px 0 0 0;
 }
 .Weather li {
-  font-size: 16px;
-  color: #202124;
+  font-size: 24px;
+  color: #421a29;
   font-weight: 100;
   line-height: 19px;
   list-style: none;
+  margin: 20px;
 }
 .Weather ul {
   margin: 0;
@@ -33,7 +34,7 @@
 
 .Weather .temperature {
   font-weight: bold;
-  font-size: 64px;
+  font-size: 94px;
   line-height: 64px;
 }
 
