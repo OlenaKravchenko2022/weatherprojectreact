@@ -1,3 +1,6 @@
+body {
+  background-color: rgb(209, 221, 247);
+}
 .Weather {
   border: 1px solid;
   font-family: arial, sans-serif;
@@ -15,7 +18,7 @@
 }
 .Weather li {
   font-size: 24px;
-  color: #421a29;
+  color: #0e0608;
   font-weight: 100;
   line-height: 19px;
   list-style: none;
